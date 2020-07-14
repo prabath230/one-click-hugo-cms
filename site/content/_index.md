@@ -1,13 +1,13 @@
 ---
-title: පරිගනක ලෝකය
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "පරිගණක ලෝකය "
+subtitle: පරිගණක දැනුම පිපාසිතයන්ගේ පාරාදීසය.....
+image: img/banner_img.png
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: අපගේ සේවාවන් ..
+  text: >+
+    පරිගණක තාක්ෂණික කරුණු, සාමාන්‍ය පෙළ උසස්පෙළ තොරතුරු තාක්ෂණික දැනුම සහ
+    අත්‍යවශ්‍ය මෘදුකාංග වැනි සේවාවන් මෙම අඩවියෙන් ඔබට ලබාගත හැක
+
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
